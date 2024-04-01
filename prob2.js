@@ -1,4 +1,3 @@
-/* 2번 문제 답안을 작성해주세요. */
 function solution(n) {
     let sum = 1;
     let a = 1;
